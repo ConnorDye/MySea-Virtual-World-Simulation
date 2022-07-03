@@ -1,8 +1,8 @@
 # Virtual-World-Simulation and Simulation
 
-This program is a virtual simulation of the sea with many creatures. Click on the GUI screen (the VirtualWorld.java class) when it is loaded into a IDE like IntelliJ to see the game (see a picture below).
+This program is a virtual simulation of the sea with many creatures. Run the source files (the VirtualWorld.java class holds GUI functionality) when it is loaded into a IDE like IntelliJ to see the game (see a picture below).
 
-Created by Connor Dye as a California Polytechnic University Project. My responsibilities included complete refactoring of the program into an object oriented design from a procedural design, creating a A* search algorithm for movement of the creatures in the simulation, and overall optimazation of code to make the program more efficient.
+Created by Connor Dye as a California Polytechnic University Project. My responsibilities included: `1.)` complete refactoring of the program into an object oriented design from a procedural design `2.)`creating a A* search algorithm for movement of the creatures in the simulation `3.)` overall optimazation of code to make the program more efficient.
 
 ## Features
 - Usage: run the GUI in IntelliJ IDE to see the simulation
