@@ -1,4 +1,4 @@
-# MySea Virtual World Simulation
+# MySea: Virtual World Simulation and Game
 
 This program is a virtual simulation of the sea with many creatures. Run the source files (the VirtualWorld.java class holds GUI functionality) when it is loaded into a IDE like IntelliJ to see the game (see a picture below).
 
